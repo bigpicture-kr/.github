@@ -3,13 +3,10 @@
     <br/>
     <br/>
      <a href="https://github.com/bigpicture-kr">
-    <img src="https://user-images.githubusercontent.com/69495129/179644403-e67e036e-94ea-492b-88eb-7cf667658b8a.png" alt="Logo" width=268 height=102>
+    <img src="./logo.png" alt="Logo" width=326.1 height=124.81>
     </a>
-  </h1> 
+  </h1>
 
- 
-  We are bigpicture team
-  
- 
- 
+## We are Bigpicture Team
+
 </div>
