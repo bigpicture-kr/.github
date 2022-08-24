@@ -1,11 +1,11 @@
 <div align="center">
-  <h1> 
+  <div>
     <br/>
     <br/>
      <a href="https://github.com/bigpicture-kr">
-    <img src="./logo.png" alt="Logo" width=326.1 height=124.81>
+    <img src="/profile/logo.png" alt="Logo" width=326.1 height=124.81>
     </a>
-  </h1>
+  </div>
 
 ## We are Bigpicture Team
 
